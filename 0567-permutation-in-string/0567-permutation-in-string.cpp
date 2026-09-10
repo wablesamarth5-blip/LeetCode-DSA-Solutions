@@ -7,7 +7,6 @@ public:
         return false;
     }
 
-
     int windowsize=s1.length();
     vector<int> freq1 (26,0);
     vector<int> freq2 (26,0);
